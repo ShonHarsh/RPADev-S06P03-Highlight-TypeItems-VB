@@ -4,11 +4,8 @@
   "description": "Practice 3 - Highlight WFT Type Items on ACME\r\nCreate a workflow that can highlight each specific type of workflow on the ACME Test website (www.acme-test.com).\r\n\r\nNotes:\r\n\r\nYou will need an ACME account for this exercise. If you don’t have it, make sure you create it\r\nBefore starting the exercise, make sure you go to User Options and Reset Test Data.\r\nGive the user the option to choose between the WI1, WI2, WI3, WI4 and WI5 types of workflows",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.2-preview]",
-    "UiPath.Mail.Activities": "[1.22.1]",
-    "UiPath.System.Activities": "[24.2.0-preview]",
-    "UiPath.Testing.Activities": "[24.2.0-preview]",
-    "UiPath.UIAutomation.Activities": "[24.2.0-preview]"
+    "UiPath.System.Activities": "[24.3.1]",
+    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
